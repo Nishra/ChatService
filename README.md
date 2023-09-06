@@ -1,7 +1,7 @@
 # ChatService README
 
-# Docker Desktop
-# RabbitMQ Configuration
+### Docker Desktop
+### RabbitMQ Configuration
 # 1. Pull RabbitMQ Docker Image
 In your terminal, pull the official RabbitMQ Docker image using the following command:
 
